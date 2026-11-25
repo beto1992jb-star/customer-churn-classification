@@ -17,9 +17,10 @@ How to Run
 
     Place churn_classification.py and customer_churn_basic_dataset.csv in the same folder.
 
-    Run: python churn_classification.py
+    Run python churn_classification.py from your terminal or notebook.
 
-The script prints the exploratory summary, evaluation metrics, and confusion matrix, and saves confusion_matrix.png.
+    The script prints the exploratory summary, evaluation metrics, and confusion matrix, and saves confusion_matrix.png.
+
 Test Set Results (30 Samples)
 
     Accuracy: 0.7000
