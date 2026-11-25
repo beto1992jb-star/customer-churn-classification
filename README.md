@@ -13,11 +13,10 @@ Binary customer churn classification pipeline in Python using `pandas` and `scik
 1. Place `churn_classification.py` and `customer_churn_basic_dataset.csv` in the same folder.
 2. Run:
 
-bash
+```bash
 python churn_classification.py
-  
-   The script prints the exploratory summary, evaluation metrics, and confusion matrix, and saves confusion_matrix.png.
 
+The script prints the exploratory summary, evaluation metrics, and confusion matrix, and saves confusion_matrix.png.
 Test Set Results (30 Samples)
 
     Accuracy: 0.7000
