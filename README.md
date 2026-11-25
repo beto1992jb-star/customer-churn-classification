@@ -19,7 +19,6 @@ How to Run
 
     Run:
 
-Bash
 
 python churn_classification.py
 
