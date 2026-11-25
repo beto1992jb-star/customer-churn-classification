@@ -17,7 +17,7 @@ Binary customer churn classification pipeline in Python using `pandas` and `scik
 
    The script prints the exploratory summary, evaluation metrics, and confusion matrix, and saves confusion_matrix.png.
 
-Test Set Results (30 Samples)
+##Test Set Results (30 Samples)
 
     Accuracy: 0.7000
 
@@ -29,7 +29,7 @@ Test Set Results (30 Samples)
 
     Confusion Matrix ([rows = actual, cols = predicted]): [[15, 4], [5, 6]]
 
-Limitations
+##Limitations
 
     The dataset is a small synthetic practice dataset (150 total rows; 30 test rows with 11 actual churn cases), so metrics on the holdout split are sensitive to sample size and should not be treated as a guarantee on real-world production data.
 
